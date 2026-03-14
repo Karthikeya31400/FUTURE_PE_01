@@ -12,20 +12,20 @@ Students, educators, and history enthusiasts aged 18–40 seeking immersive, gam
 To design a structured, reusable prompt engineering system that generates high-quality, conversion-focused website copy for a technology-driven history platform.
 
 This system produces:
--Clear value-driven homepage messaging
--Detailed service descriptions
--Strong "Expedition-focused" CTAs
--Tone-adaptable website copy
--Refined value propositions
+- Clear value-driven homepage messaging
+- Detailed service descriptions
+- Strong "Expedition-focused" CTAs
+- Tone-adaptable website copy
+- Refined value propositions
 
 ---
 
 ## Problem Identified
--Many history-based educational platforms:
--Use generic or unclear website copy
--Lack strong interactive positioning
--Do not communicate unique value
--Have weak or ineffective booking/launch CTAs
+- Many history-based educational platforms:
+- Use generic or unclear website copy
+- Lack strong interactive positioning
+- Do not communicate unique value
+- Have weak or ineffective booking/launch CTAs
 
 This project addresses those gaps using structured AI prompts.
 
@@ -35,17 +35,17 @@ This project addresses those gaps using structured AI prompts.
 
 The system was built using:
 
--Structured business input variables (name, product, features, USP)
--Strict output formatting rules
--Tone adaptation controls
--Benefit-driven copy constraints
--Value proposition refinement logic
+- Structured business input variables (name, product, features, USP)
+- Strict output formatting rules
+- Tone adaptation controls
+- Benefit-driven copy constraints
+- Value proposition refinement logic
 
 This ensures:
--Reusable prompt frameworks
--Business-specific content generation
--Reduced generic AI output
--Real-world website readiness
+- Reusable prompt frameworks
+- Business-specific content generation
+- Reduced generic AI output
+- Real-world website readiness
 
 ---
 
@@ -75,19 +75,19 @@ KLG_ANCIENT_WORLD_PE_01
 
 ## Deliverables Included
 
--Homepage copy
--Services page content
--CTA content pack
--Tone adaptation system
--Value proposition refinement system
+- Homepage copy
+- Services page content
+- CTA content pack
+- Tone adaptation system
+- Value proposition refinement system
 
 ---
 
 ## Tools Used
 
--Gemini
--GitHub
--Lovable(for website prototyping)
+- Gemini
+- GitHub
+- Lovable(for website prototyping)
 
 ---
 
@@ -95,11 +95,11 @@ KLG_ANCIENT_WORLD_PE_01
 
 Although demonstrated using a Heritage-Tech startup, this structured prompt system can be adapted for:
 
--EdTech platforms
--AI-SaaS startups
--Digital Museums
--Research Agencies
--Freelancers
+- EdTech platforms
+- AI-SaaS startups
+- Digital Museums
+- Research Agencies
+- Freelancers
 
 The framework is designed to be scalable across multiple high-tech business types.
 
