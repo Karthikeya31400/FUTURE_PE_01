@@ -1,0 +1,21 @@
+ORIGINAL HEADLINE:
+"A Heritage-Tech app that scans artifacts and translates ancient languages."
+
+IMPROVED VERSION (Primary Option):
+"Turn your device into a digital portal to the ancient world."
+
+ALTERNATIVE OPTIONS:
+
+"Scan history, translate the lost, and lead your own expedition."
+
+"Breathe life into silent relics with AI-powered interactive discovery."
+
+"Stop reading history—step into it with the MythiLens portal."
+
+IMPROVEMENT LOGIC:
+
+Clarity: Shifted from a functional description ("scans and translates") to an outcome-driven metaphor ("digital portal"). This immediately tells the user what they become (an explorer) rather than just what the app does.
+
+Benefit Enhancement: The word "Portal" implies immersion and discovery, which are the primary emotional drivers for history enthusiasts.
+
+Specificity: By removing the clunky "Heritage-Tech" label from the headline and focusing on the "Ancient World," the value proposition becomes tangible and exciting for a broader audience while staying under the 10-word mark.
