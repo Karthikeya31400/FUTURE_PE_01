@@ -1,0 +1,22 @@
+You are a marketing copywriter specializing in Heritage-Tech.
+
+Generate 6 persuasive CTA sections for an AI-powered history platform.
+
+Business Details:
+- Brand Name: KLG Ancient World
+- Product: MythiLens App
+- Unique Tech: AI Artifact Scanner & Ancient Translator
+- Mission: Making global history interactive and gamified
+
+Create CTAs for:
+1. Main App Launch (General Entry)
+2. AI Artifact Scanner (Feature-specific)
+3. Ancient Language Translation (Feature-specific)
+4. Gamified Quest Participation (Engagement)
+5. Early Access/Founder's Badge (Urgency)
+6. Educational/Institutional Trust-based CTA
+
+Each CTA must include:
+- Headline
+- 2 persuasive lines
+- Strong button text
