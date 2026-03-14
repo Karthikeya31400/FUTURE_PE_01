@@ -1,0 +1,65 @@
+CTA 1: Main App Launch (General Entry)
+Headline:
+The Ancient World is Waiting.
+
+Message:
+Step through the digital portal and explore lost civilizations in 4K reality.
+Your journey from the classroom to the Colosseum begins with a single tap.
+
+Button:
+Enter the Experience
+
+CTA 2: AI Artifact Scanner (Feature-Specific)
+Headline:
+Every Relic Has a Hidden Story.
+
+Message:
+Turn your smartphone into a high-powered archaeological lens.
+Identify, reconstruct, and interact with global artifacts instantly using proprietary AI.
+
+Button:
+Start Scanning
+
+CTA 3: Ancient Language Translation (Feature-Specific)
+Headline:
+Break the Silence of the Ages.
+
+Message:
+Decode Hieroglyphs, Cuneiform, and Ancient Greek in real-time.
+Finally, read the walls of history as clearly as a modern textbook.
+
+Button:
+Try the Translator
+
+CTA 4: Gamified Quest Participation (Engagement)
+Headline:
+Your Legacy is Unlocked Through Discovery.
+
+Message:
+Don’t just study history—lead the expedition through our gamified campaign system.
+Complete research-backed quests to earn your place on the global leaderboard.
+
+Button:
+Begin My Quest
+
+CTA 5: Early Access/Founder's Badge (Urgency)
+Headline:
+Become a Founding Explorer.
+
+Message:
+Join the first 1,000 users to secure an exclusive, permanent Founder’s Badge.
+Gain early access to restricted eras before the global launch closes.
+
+Button:
+Claim My Founder's Badge
+
+CTA 6: Educational/Institutional Trust-based CTA
+Headline:
+The Future of Heritage Education is Here.
+
+Message:
+Trusted by educators to bridge the gap between static archives and student engagement.
+Bring academic-grade Heritage-Tech to your institution and watch the past come alive.
+
+Button:
+Request Institutional Access
