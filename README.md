@@ -21,7 +21,7 @@ This system produces:
 ---
 
 ## Problem Identified
-- Many history-based educational platforms:
+ Many history-based educational platforms:
 - Use generic or unclear website copy
 - Lack strong interactive positioning
 - Do not communicate unique value
