@@ -1,0 +1,42 @@
+1. Hero Section
+Headline:
+History is Silent. Give it a Voice.
+
+Subheadline:
+Transform your device into a digital portal to lost civilizations. Scan, translate, and explore the ancient world with MythiLens—the AI-powered lens to our shared human heritage.
+
+Primary CTA Button:
+Begin Your Expedition
+
+2. Short Introduction Section
+At KLG Ancient World, we believe history should be an experience, not a lecture. By merging advanced AI with cultural preservation, we’ve created a "Heritage-Tech" portal that brings the echoes of the past into the palm of your hand. Whether you are in a museum or your living room, the ancient world is now just one scan away.
+
+3. 3 Key Benefits
+1. Cinematic Discovery
+Experience the awe of seeing history in 4K reality. Our AI doesn't just show you an object; it reconstructs the era, the people, and the story behind it.
+
+2. Academic Authority
+Move beyond guesswork. Access verified historical data and linguistic translations powered by scholarly databases, making your learning both immersive and accurate.
+
+3. The Thrill of the Hunt
+History is a campaign, not a chore. Our gamified system turns every discovery into a milestone, rewarding your curiosity with unlockable eras and digital legacies.
+
+4. Featured Services Section
+AI Artifact Scanner
+Point. Scan. Reveal. Instantly identify artifacts and view 3D reconstructions that bridge the gap between stone and story.
+
+The Ancient Translator
+Decipher the undecipherable. Our real-time OCR technology allows you to read Hieroglyphics and Cuneiform as if they were written yesterday.
+
+The Quest Engine
+Journey through 20+ unlockable historical eras. Complete research-backed challenges to earn your place on the global leaderboard of explorers.
+
+5. Trust Section
+Built on the cutting edge of Gemini 3 AI architecture, KLG Ancient World is a leader in Heritage-Tech. We are dedicated to empowering the next generation of students and educators with tools that treat cultural heritage as a living, breathing experience.
+
+6. Closing "Expedition" CTA
+The past is no longer behind glass.
+Launch MythiLens today and see what the ancestors have been waiting to tell you.
+
+Button:
+Enter the Portal
