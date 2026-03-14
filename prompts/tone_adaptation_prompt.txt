@@ -1,0 +1,16 @@
+Rewrite the KLG Ancient World website copy in the selected tone.
+
+Tone Options:
+- Cinematic & Awe-inspiring (For Enthusiasts)
+- Professional & Academic (For Institutions)
+- Friendly & Educational (For Kids/Parents)
+
+Instructions:
+- Do not change the original structure.
+- Adjust vocabulary (e.g., use "Research" for Academic tone vs. "Quest" for Cinematic).
+- Keep headings and CTA placements the same.
+
+Output Format:
+TONE SELECTED: [Selected Tone Name]
+REWRITTEN COPY: [Full copy]
+TONE ADJUSTMENT NOTES: [Brief explanation of changes]
