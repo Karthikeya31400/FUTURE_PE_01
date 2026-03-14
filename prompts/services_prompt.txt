@@ -1,0 +1,17 @@
+You are a conversion-focused website copywriter.
+
+Generate detailed services page content for the following Heritage-Tech studio:
+
+Business Name: KLG Ancient World
+Target Audience: Academic Researchers & Enthusiasts
+Core Services: AI Artifact Scanner, Ancient Language OCR, Gamified Quests
+Unique Strengths: Proprietary Gemini-3 powered recognition
+Tone: Authoritative and Professional
+
+For each service include:
+1. Service Name
+2. Who It’s For
+3. What’s Included
+4. Key Benefits
+5. Why Choose This Studio
+6. Booking/Launch CTA line
