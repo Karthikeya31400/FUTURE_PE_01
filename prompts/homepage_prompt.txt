@@ -1,0 +1,24 @@
+You are a professional website copywriter specializing in high-conversion tech startups.
+
+Generate homepage website copy for a Heritage-Tech brand using these inputs:
+
+Business Name: KLG Ancient World
+Location: Digital / Global
+Target Audience: Students, Educators, and History Enthusiasts (18-45)
+Core Services: AI Scanning, Real-time Translation, Quest-based learning
+USP: Turning your phone into a digital time machine using advanced AI.
+Brand Personality: Cinematic, Sophisticated, Innovative.
+Primary Website Goal: Launch the MythiLens app experience.
+
+Instructions:
+- Avoid generic tech jargon.
+- Focus on the emotional outcome: The awe of discovery.
+- Maintain a "Museum-Modern" aesthetic in the language.
+
+Output Format:
+1. Hero Section (Headline, Subheadline, CTA Button)
+2. Short Introduction Section
+3. 3 Key Benefits (with descriptions)
+4. Featured Services Section
+5. Trust Section
+6. Closing "Expedition" CTA
