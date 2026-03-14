@@ -52,7 +52,7 @@ This ensures:
 ## Repository Structure
 
 ```
-KLG_ANCIENT_WORLD_PE_01
+FUTURE_PE_01
 │
 ├── README.md
 │
